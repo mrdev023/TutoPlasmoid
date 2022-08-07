@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "florian.richer@protonmail.com",
+                "Name": "Florian RICHER"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "A widget to take over the world!",
+        "Icon": "battery",
+        "Id": "fr.mrdev023.plasmoid1",
+        "Name": "Tuto Plasmoid 1",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1",
+        "Website": "https://github.com/mrdev023/TutoPlasmoid"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}

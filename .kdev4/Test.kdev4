@@ -1,0 +1,33 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x18\x00T\x00u\x00t\x00o\x00P\x00l\x00a\x00s\x00m\x00o\x00i\x00d)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Système hôte=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/florian/Documents/Project/Perso/TutoPlasmoid/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=/usr/local
+Runtime=Système hôte
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=PlasmoidLauncher
+Name=Nouveau lanceur Lanceur de composants graphiques
+Type=PlasmoidLauncherType
+
+[Launch][Launch Configuration 0][Data]
+Arguments=--formfactor,planar
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x00)
+PlasmoidIdentifier=package
+
+[Project]
+VersionControlSupport=kdevgit
